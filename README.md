@@ -10,17 +10,14 @@
 
 DevFlex IDE is an open-source, AI-native, privacy-first IDE that offers the flexibility to bring your own keys for the LLMs of your choice. Forked from VS Code, DevFlex IDE is designed to provide a seamless, AI-powered coding experience that is fully customizable, community-driven, and transparent.
 
-## 🚀 Try Instantly Online
 
-Experience the power of DevFlex IDE without any installation! Click the button below to launch DevFlex IDE in your browser and start browsing with AI-powered chat, and more.
-
-[![Open in DevFlex AI Web IDE](https://badges.DevFlex.ai/open-in-web-ide.svg)](https://DevFlex.ai/web-ide-redirect?provider=github&owner=DevFlex-ai&repo=DevFlex-ide&branch=main)
 
 ## 📦 Installation
 
 1. Install DevFlex IDE from the [GitHub Releases](https://github.com/DevFlex-ai/DevFlex-ide/releases/latest) page.
 2. Configure your preferred Language model providers as explained [here](https://DevFlex.ai/configuration/chat.html) in the official documentation.
-3. Start coding with AI-powered completions, chat, and more!
+3. Start coding with AI-powered completions, chat, and more! But remmeber we are still seting up our relses
+4. 
 
 ## ✨ Why DevFlex?
 
@@ -61,8 +58,3 @@ When using this repository, ensure compliance with both licenses as applicable.
 
 If you love DevFlex, show your support [here](https://github.com/DevFlex-ai/DevFlex-ide) by starring us on GitHub! Every star motivates us to make DevFlex even better.
 
-<p align="center">
-Made with ❤️ by developers, for developers
-<br>
-© 2024 DevFlex AI Inc.
-</p>
